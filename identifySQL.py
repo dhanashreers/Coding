@@ -1,3 +1,5 @@
+# Python code to write code to read it and print out lines that seem to suggest SQLi attacks
+
 import re
 
 # Define patterns commonly seen in SQL injection attempts
