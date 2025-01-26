@@ -1,3 +1,5 @@
+# Python code to filter out the first two lines of a CSV log file and print.
+
 import csv
 
 def print_first_two_rows(file_path):
