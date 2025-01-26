@@ -10,4 +10,4 @@ def print_first_two_rows(file_path):
                 break
 
 # Call the function with your file
-print_first_two_rows('/Users/dhanashree/Downloads/logs.csv')
+print_first_two_rows('logs.csv')
